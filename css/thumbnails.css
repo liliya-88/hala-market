@@ -134,13 +134,13 @@ body {
 #thumbs li {
   list-style: none;
   margin: 0 auto;
-  display: block;
+  display: inline-flex;
 }
 
 #thumbs1 li {
   list-style: none;
   margin: 0 auto;
-  display: block;
+  display: inline-flex;
 }
 
 .h3_title {
@@ -159,9 +159,7 @@ body {
   background: transparent;
   padding: 0.5rem;
   outline: 0.3rem outset var(--primaryColor);
-  box-shadow:
-    0 0 3px 5px black,
-    0.5px 0.5px 4px 6px grey;
+  box-shadow: 0 0 3px 5px black, 0.5px 0.5px 4px 6px grey;
   display: block;
   text-align: center;
   margin: 0 auto;
@@ -172,9 +170,7 @@ body {
   background: var(--tirtiaryColor);
   color: var(--primaryColor);
   outline: 0.3rem outset var(--secondaryColor);
-  box-shadow:
-    0 0 3px 5px grey,
-    0.5px 0.5px 4px 6px black;
+  box-shadow: 0 0 3px 5px grey, 0.5px 0.5px 4px 6px black;
 }
 
 .ul_with_text p {
@@ -209,9 +205,7 @@ body {
   display: block;
   margin: 0.5rem auto 0;
   padding: 3.5rem 0;
-  text-shadow:
-    0.9px 0.9px 6px rgb(91, 90, 89),
-    0px 0px 4px rgb(30, 30, 30);
+  text-shadow: 0.9px 0.9px 6px rgb(91, 90, 89), 0px 0px 4px rgb(30, 30, 30);
   color: var(--secondaryColor);
   margin: 0 auto;
   padding: 0.2rem;
@@ -322,7 +316,7 @@ h1.h1 {
   }
 
   #thumbs1 a img {
-    width: 143px;
+    width: 1px;
     height: 100px;
     float: right;
   }
