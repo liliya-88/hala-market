@@ -10,11 +10,10 @@ html {
   scroll-behavior: smooth;
   scroll-snap-type: y mandatory;
   transition: all 0.5s linear;
-  overflow-y: auto;
 }
-body {
+/* body {
   overflow-y: auto;
-}
+} */
 .header_lamb_back {
   min-height: 100vh;
   background: url(../images/img_meat_pages/lamb-back-meat.webp) center/cover
