@@ -143,7 +143,7 @@ const menu = [
     img: "./images/lamb_ribs.jpg",
     desc: `Баранья спинка – это престижный отруб из передней четверти нашей баранины, выращенной на траве. Спинка баранья идеально подходит для семейного или праздничного мероприятия!`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/lamb_back_meat.html",
+    page: "https://meat-market-one.vercel.app/lamb_back_meat.html",
   },
   {
     id: 2,
@@ -153,7 +153,7 @@ const menu = [
     img: "./images/filletOfBeef_img.jpg",
     desc: `Целое филе говядины — это действительно особенный кусок. Берется из наиболее недоиспользованной мускулатуры говядины, «разделывается» нашими квалифицированными мясниками, что означает удаление всего лишнего жира.  `,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/beef_tenderloin_meat_in_pokrov.html",
+    page: "https://meat-market-one.vercel.app/beef_tenderloin_meat_in_pokrov.html",
   },
   {
     id: 3,
@@ -163,7 +163,7 @@ const menu = [
     img: "./images/filletOfVeal_meat.jpg",
     desc: `Телячья мякоть — это действительно особенный кусок. Берется из наиболее недоиспользованной мускулатуры молодых бычков, «разделывается» нашими квалифицированными мясниками.`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/veal-pulp-meat-to-buy-in-pokrov.html",
+    page: "https://meat-market-one.vercel.app/veal-pulp-meat-to-buy-in-pokrov.html",
   },
   {
     id: 4,
@@ -173,7 +173,7 @@ const menu = [
     img: "./images/lamb_leg.jpg",
     desc: `Передняя баранья нога – это отруб от целого барана. Отлично подходит для медленного приготовления. Высокое содержание белка и низкое содержание калорий. `,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/front-leg-of-lamb-halal-meat-in-pokrov.html",
+    page: "https://meat-market-one.vercel.app/front-leg-of-lamb-halal-meat-in-pokrov.html",
   },
   {
     id: 5,
@@ -183,7 +183,7 @@ const menu = [
     img: "./images/steakBeef.jpg",
     desc: `Стейк говяжий — один из самых популярных стейков. Благодаря натуральному жиру и густой мраморности он идеален, для приготовления "в собственном соку", что делает его очень нежным. `,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/beef-steak-meat-halal.html",
+    page: "https://meat-market-one.vercel.app/beef-steak-meat-halal.html",
   },
   {
     id: 6,
@@ -193,7 +193,7 @@ const menu = [
     img: "./images/lamb_fat.jpg",
     desc: `Курдюк - жировое отложение округлой формы в районе хвоста у барана «курдючной» породы. Курдюк бараний – отличная добавка для плова, лагмана, бешбармака и других мясных блюд.`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/kurdyuk-lamb-meat-in-pokrov.html",
+    page: "https://meat-market-one.vercel.app/kurdyuk-lamb-meat-in-pokrov.html",
   },
   {
     id: 7,
@@ -203,7 +203,7 @@ const menu = [
     img: "./images/beef_heart.jpg",
     desc: `Говяжье сердце - это особый продукт с нежным вкусом. Вы даже можете измельчить мясо и сделать из него гамбургеры!`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/beef-heart-meat-halal.html",
+    page: "https://meat-market-one.vercel.app/beef-heart-meat-halal.html",
   },
   {
     id: 8,
@@ -213,7 +213,7 @@ const menu = [
     img: "./images/ground-beef_wqobpz.jpg",
     desc: `Фарш из отборных кусков говядины. Отличный нежный вкус, чудесный аромат и прост в приготовлении!`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/ground-beef-meat-halal-in-pokrov.html",
+    page: "https://meat-market-one.vercel.app/ground-beef-meat-halal-in-pokrov.html",
   },
   {
     id: 9,
@@ -223,7 +223,7 @@ const menu = [
     img: "./images/veal-meat-steak-on-bone.jpg",
     desc: `Стейк говяжий — один из самых популярных стейков. Благодаря натуральному жиру и густой мраморности он идеален, для приготовления "в собственном соку", что делает его очень нежным.`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/veal-steak-meat-halal.html",
+    page: "https://meat-market-one.vercel.app/veal-steak-meat-halal.html",
   },
   {
     id: 10,
@@ -233,7 +233,7 @@ const menu = [
     img: "./images/liver_beef.jpg",
     desc: `Ливер - это печень молодых бычков. Поднимает гемоглобин, укрепляет иммунитет. Говяжья печень — это питательная пища с высоким содержанием белка и низким содержанием калорий.`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/beef-liver-meat-in-pokrov.html",
+    page: "https://meat-market-one.vercel.app/beef-liver-meat-in-pokrov.html",
   },
   {
     id: 11,
@@ -243,7 +243,7 @@ const menu = [
     img: "./images/rabbit-meat_pxotrn.jpg",
     desc: `Кролик домашний - мясо кроликов из деревни на заказ. Диетическое мясо. Изысканное блюдо для всей семьи.`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/rabbit-fresh-meat-halal.html",
+    page: "https://meat-market-one.vercel.app/rabbit-fresh-meat-halal.html",
   },
   {
     id: 12,
@@ -253,7 +253,7 @@ const menu = [
     img: "./images/farm-raw-chicken.jpg",
     desc: `Куры фермерские - тушка курицы из деревни на заказ. Диетическое мясо.  Нежнейший вкус.С высоким содержанием белка `,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/chicken-meat-halal-in-pokrov.html",
+    page: "https://meat-market-one.vercel.app/chicken-meat-halal-in-pokrov.html",
   },
   {
     id: 13,
@@ -263,7 +263,7 @@ const menu = [
     img: "./images/beef_tonge_meat.jpg",
     desc: `Язык говяжий - изысканное блюдо для всей семьи. Нежнейший вкус. Питательная еда с высоким содержанием белка и низким содержанием калорий.`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/beef-tongue-meat.html",
+    page: "https://meat-market-one.vercel.app/beef-tongue-meat.html",
   },
   {
     id: 14,
@@ -273,7 +273,7 @@ const menu = [
     img: "./images/raw-meat-leg-young-lambr.jpg",
     desc: `Задняя баранья нога – это отруб от целого барана. Богатый источник многих витаминов, включая витамин B1, витамин B2 и витамин E.`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/rear-lamb-leg-meat.html",
+    page: "https://meat-market-one.vercel.app/rear-lamb-leg-meat.html",
   },
   {
     id: 15,
@@ -283,7 +283,7 @@ const menu = [
     img: "./images/lean-beef_meat.jpg",
     desc: `Отборные постные куски мякоти с передней части быка. Содержит белки и множество антиоксидантов, которые укрепляют ваше здоровье.`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/beef-goulash-halal-meat.html",
+    page: "https://meat-market-one.vercel.app/beef-goulash-halal-meat.html",
   },
   {
     id: 16,
@@ -293,7 +293,7 @@ const menu = [
     img: "./images/veal-leg-on-blue-stone--with-herbs.jpg",
     desc: `Рулька - задняя или передняя нога молодого бычка. Богата минералами, которые помогают строить и укреплять кости.`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/beef-knuckle-meat-in-pokrov.html",
+    page: "https://meat-market-one.vercel.app/beef-knuckle-meat-in-pokrov.html",
   },
   {
     id: 17,
@@ -303,7 +303,7 @@ const menu = [
     img: "./images/raw-lamb-steak_on_bone.jpg",
     desc: `Стейк говяжий — один из самых популярных стейков. Благодаря натуральному жиру и густой мраморности он идеален, для приготовления "в собственном соку", что делает его очень нежным.`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/beef-steak-meat-halal.html",
+    page: "https://meat-market-one.vercel.app/beef-steak-meat-halal.html",
   },
   {
     id: 18,
@@ -313,7 +313,7 @@ const menu = [
     img: "./images/raw-beef-meat-on-bone-flat-lay_maqr6n.jpg",
     desc: `Мякоть баранья на кости — это отборные куски мякоти с передней части барана. Улучшает здоровье костей и снижает риск развития остеопороза.`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/pulp-on-the-bone-meat-in-pokrov.html",
+    page: "https://meat-market-one.vercel.app/pulp-on-the-bone-meat-in-pokrov.html",
   },
   {
     id: 19,
@@ -323,7 +323,7 @@ const menu = [
     img: "./images/meat-steaks-with-bone-dinner.jpg",
     desc: `Рулька телячья - задняя или передняя нога молодого бычка. Богатый источник многих витаминов, включая витамин B1, витамин B2 и витамин E. `,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/veal_knuckle_halal_meat_in_pokrov.html",
+    page: "https://meat-market-one.vercel.app/veal_knuckle_halal_meat_in_pokrov.html",
   },
   {
     id: 20,
@@ -333,7 +333,7 @@ const menu = [
     img: "./images/piece_of_meat.jpg",
     desc: `Отборные куски говяжьей мякоти, которые наши квалифицированные мясники вырезают вручную на заказ. Высококачественный белок. `,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/beef_pulp_meat_in_pokrov.html",
+    page: "https://meat-market-one.vercel.app/beef_pulp_meat_in_pokrov.html",
   },
   {
     id: 21,
@@ -343,7 +343,7 @@ const menu = [
     img: "./images/lamb-tenderloin-halal-meat.jpg",
     desc: `Отборные куски бараньей мякоти, которые наши квалифицированные мясники вырезают вручную. Прекрасный источник белка.`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/pulp_lamb_meat_halal_to_buy_in_pokrov.html",
+    page: "https://meat-market-one.vercel.app/pulp_lamb_meat_halal_to_buy_in_pokrov.html",
   },
   {
     id: 22,
@@ -353,7 +353,7 @@ const menu = [
     img: "./images/beef-meat-on-bone-halal.jpg",
     desc: `Говяжья грудинка – это отруб из передней четверти нашей говядины, откормленной травой. Отлично подойдет на суп.`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/brisket_beef_halal_meat_in_pokrov.html",
+    page: "https://meat-market-one.vercel.app/brisket_beef_halal_meat_in_pokrov.html",
   },
   {
     id: 23,
@@ -363,7 +363,7 @@ const menu = [
     img: "./images/ground_lamb_beef_meat.jpg",
     desc: `Фарш из отборных кусков баранины и говядины. Особо сочный вкус.  Наивкуснейшее блюдо для всей семьи. Хороший источник белка, цинка, витаминов B3 и B12. Нежнейший вкус.  `,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/minced_meat_lamb_with_beef_meat_halal_in_pokrov.html",
+    page: "https://meat-market-one.vercel.app/minced_meat_lamb_with_beef_meat_halal_in_pokrov.html",
   },
   {
     id: 24,
@@ -373,7 +373,7 @@ const menu = [
     img: "./images/raw-beef-spare-ribs.jpg",
     desc: `Говяжье ребро – это престижный отруб из передней четверти нашей говядины, откормленной травой. Благодаря хорошему покрытию натуральным жиром и мраморности на всем протяжении, жаркое получается очень нежным.`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/beef_ribs_halal_meat_in_pokrov.html",
+    page: "https://meat-market-one.vercel.app/beef_ribs_halal_meat_in_pokrov.html",
   },
   {
     id: 25,
@@ -383,7 +383,7 @@ const menu = [
     img: "./images/raw-lamb-on-wood_iczqoi.jpg",
     desc: `Лопатка телячья – это отруб из передней четверти молодого бычка, выращенного на траве. Один из самых богатых белком продуктов с низким содержанием жира.`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/veal_shoulder_meat_halal_in_pokrov.html",
+    page: "https://meat-market-one.vercel.app/veal_shoulder_meat_halal_in_pokrov.html",
   },
   {
     id: 26,
@@ -393,7 +393,7 @@ const menu = [
     img: "./images/veal_fatless_steak_meat.jpg",
     desc: `Стейк телячий — один из самых популярных стейков. Отборные куски телячьей мякоти, которые наши квалифицированные мясники вырезают вручную. `,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/veal_steak_boneless_meat_in_pokrov.html",
+    page: "https://meat-market-one.vercel.app/veal_steak_boneless_meat_in_pokrov.html",
   },
   {
     id: 27,
@@ -403,7 +403,7 @@ const menu = [
     img: "./images/fresh-raw-veal-ribs-meat.jpg",
     desc: `Ребра молодых бычков – это престижный отруб из передней четверти нашей телятины, откормленной травой. Благодаря хорошему покрытию натуральным жиром и мраморности на всем протяжении, жаркое получается очень нежным.`,
     scale: "img_mainPage",
-    page: "https://hala-market.vercel.app/veal_ribs_meat_hala_in_pokrov.html",
+    page: "https://meat-market-one.vercel.app/veal_ribs_meat_hala_in_pokrov.html",
   },
   {
     id: 28,
